@@ -28,5 +28,5 @@ By using Vocabster on Android or iOS platforms, you signify your acceptance of t
 
 ## Contact Information
 
-For inquiries about this Privacy Policy or Vocabster's practices, please contact us at [kamranyofficial@gmail.com](mailto:kamran.khankhail@gmail.com).
+For inquiries about this Privacy Policy or Vocabster's practices, please contact us at [kamran.khankhail@gmail.com](mailto:kamran.khankhail@gmail.com).
 
