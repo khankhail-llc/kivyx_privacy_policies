@@ -53,4 +53,4 @@ We may update our Privacy Policy from time to time. If we make material changes 
 
 ## Contact Information
 
-To ask questions or comment about this Privacy Policy and our privacy practices, contact us at: kamranyofficial@gmail.com
+To ask questions or comment about this Privacy Policy and our privacy practices, contact us at: kamran.khankhail@gmail.com
