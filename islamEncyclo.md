@@ -13,6 +13,10 @@ IslamEncyclo employs various npm libraries for enhanced functionality. The app m
 
 - **Microsoft AppCenter Integration:** IslamEncyclo integrates with appcenter, appcenter-analytics, and appcenter-crashes to provide Over-The-Air (OTA) updates. Information collected through AppCenter includes device details, app usage statistics, and crash reports, used solely to enhance app performance and deliver updates for an improved user experience.
 
+- **AdMob Integration:**  IslamEncyclo now features advertisement integration through Google AdMob. This integration allows for the display of ads within the app, which may collect certain data for personalized ad delivery and reporting purposes.
+
+
+
 ## Data Protection
 
 IslamEncyclo is dedicated to protecting the information collected from Users. Stringent measures are in place to prevent unauthorized access, alteration, disclosure, or destruction of Users’ personal information and data stored within the app.
