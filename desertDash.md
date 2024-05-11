@@ -6,11 +6,11 @@ Thank you for playing Desert Dash! This Privacy Policy describes how we collect,
 
 ## Information We Collect
 
-We do not collect any personal information or data from users while playing Desert Dash. However, please note that our game may utilize Unity Ads, and their privacy policy applies to the collection and use of information through advertisements.
+We do not collect any personal information or data from users while playing Desert Dash. However, please note that our game may utilize Google Admob, and their privacy policy applies to the collection and use of information through advertisements.
 
-## Unity Ads
+## Advertisements
 
-Desert Dash uses Unity Ads to display advertisements within the game. Unity Ads may collect certain device information for ad targeting purposes, but we do not have access to or control over this data. Please refer to Unity's Privacy Policy for more information about how Unity Ads collects, uses, and shares data: [Unity Privacy Policy](https://unity3d.com/legal/privacy-policy).
+Desert Dash may display advertisements served by Google AdMob. AdMob may use cookies and other technologies to collect information about Users, such as their IP address, device identifiers, and usage data, for the purpose of providing personalized advertisements. Users may learn more about AdMob's privacy practices by visiting their [Privacy Policy](https://policies.google.com/privacy).
 
 
 ## Changes to This Privacy Policy
