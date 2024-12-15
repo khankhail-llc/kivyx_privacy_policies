@@ -8,6 +8,11 @@ By using WishSphere, you agree to the practices described in this Privacy Policy
 
 ---
 
+> 📌 **Note:**  
+> * Our app does not collect or transmit any personal or sensitive data outside your device.  
+> * All data is stored locally within the app and can be accessed offline.  
+> * You have full control over your data, and it never leaves your device.
+
 ## Information Collection and Use
 
 **WishSphere does not collect or store any personal data from users.** However, the app integrates third-party services that may collect limited information for their respective functionalities. Below are the details of these integrations:
@@ -50,6 +55,6 @@ If you have any questions or concerns about this Privacy Policy or how third-par
 
 ---
 
-_Last updated: [14-Dec-2024]_
+_Last updated: [15-Dec-2024]_
 
 ---
