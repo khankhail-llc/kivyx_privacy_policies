@@ -1,4 +1,3 @@
-
 # Privacy Policy for IslamEncyclo
 
 This Privacy Policy outlines how IslamEncyclo, mobile application for Quran audio listening, collects, uses, and safeguards information from users (each, a "User") on Android and iOS platforms.
@@ -7,15 +6,13 @@ This Privacy Policy outlines how IslamEncyclo, mobile application for Quran audi
 
 IslamEncyclo employs various npm libraries for enhanced functionality. The app may collect and utilize the following information:
 
-- **Firebase Audio Storage:** Quranic audio files are stored in Firebase using @react-native-firebase/storage. This storage facilitates seamless streaming and access to the Quranic audio content within the app.
+- **Amazon Web Services (AWS) Storage:** We store Quranic audio files securely on AWS using the aws-sdk library. This enables uninterrupted streaming and efficient delivery of audio content within the App.
 
 - **Audio Download Capability:** Users can download Quranic audio for offline listening. Any downloaded audio is stored locally on the user's device using react-native-fs, enabling offline access without an internet connection.
 
-- **Microsoft AppCenter Integration:** IslamEncyclo integrates with appcenter, appcenter-analytics, and appcenter-crashes to provide Over-The-Air (OTA) updates. Information collected through AppCenter includes device details, app usage statistics, and crash reports, used solely to enhance app performance and deliver updates for an improved user experience.
+- **EAS Update Integration:** We leverage Expo Application Services (EAS) Update to deliver Over-The-Air updates. EAS collects device metadata and anonymous usage metrics to optimize performance and ensure a seamless update experience.
 
 - **AdMob Integration:**  IslamEncyclo now features advertisement integration through Google AdMob. This integration allows for the display of ads within the app, which may collect certain data for personalized ad delivery and reporting purposes.
-
-
 
 ## Data Protection
 
@@ -37,3 +34,4 @@ By using IslamEncyclo on Android or iOS platforms, Users signify their acceptanc
 
 For inquiries about this Privacy Policy or IslamEncyclo's practices, please contact us at [kamranyofficial@gmail.com](mailto:kamranyofficial@gmail.com).
 
+**Last Updated**: `23 May 2025`
