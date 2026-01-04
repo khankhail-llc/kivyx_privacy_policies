@@ -1,37 +1,122 @@
-# Privacy Policy for IslamEncyclo
+# Privacy Policy for Islam Encyclo
 
-This Privacy Policy outlines how IslamEncyclo, mobile application for Quran audio listening, collects, uses, and safeguards information from users (each, a "User") on Android and iOS platforms.
+Islam Encyclo is a Quranic and spiritual companion application available on Android and iOS. This Privacy Policy explains how the app handles information following a major migration and update to its internal architecture. Our goal is to provide core features such as Quran audio, offline access, reminders, quizzes, Tasbeeh counters, and personalization while respecting user privacy and maintaining platform compliance.
 
-## Information Collection and Use
+---
 
-IslamEncyclo employs various npm libraries for enhanced functionality. The app may collect and utilize the following information:
+## Information We Collect
 
-- **Amazon Web Services (AWS) Storage:** We store Quranic audio files securely on AWS using the aws-sdk library. This enables uninterrupted streaming and efficient delivery of audio content within the App.
+Islam Encyclo is designed to work without user accounts or registration. The app collects only limited information necessary to operate features reliably and improve quality.
 
-- **Audio Download Capability:** Users can download Quranic audio for offline listening. Any downloaded audio is stored locally on the user's device using react-native-fs, enabling offline access without an internet connection.
+### App usage and diagnostics
+- Collects anonymized usage information such as screen interactions, feature usage, session duration, app version, and basic device characteristics.
+- Data is used in aggregate to understand feature performance, improve stability, and fix errors.
+- Crash and error reports may include technical device state at the time of failure but do not identify individual users.
 
-- **EAS Update Integration:** We leverage Expo Application Services (EAS) Update to deliver Over-The-Air updates. EAS collects device metadata and anonymous usage metrics to optimize performance and ensure a seamless update experience.
+### Device and preference information
+- Stores selected language, theme, reading progress, prayer preferences, reminders, and similar settings locally.
+- Processes limited non-personal device information (OS version, locale, connectivity status) for proper formatting, downloads, and feature behavior.
 
-- **AdMob Integration:**  IslamEncyclo now features advertisement integration through Google AdMob. This integration allows for the display of ads within the app, which may collect certain data for personalized ad delivery and reporting purposes.
+### Advertising data
+- Displays ads to support continued development.
+- Advertising partners may receive standard advertising identifiers and limited device/interaction data.
+- Advertising data is managed according to provider privacy policies and system ad personalization controls.
 
-## Data Protection
+### Push notification data
+- Stores device notification tokens and basic metadata to deliver reminders (e.g., prayer times, app updates) if notifications are enabled.
+- Notification delivery statistics may be collected to ensure reliability.
 
-IslamEncyclo is dedicated to protecting the information collected from Users. Stringent measures are in place to prevent unauthorized access, alteration, disclosure, or destruction of Users’ personal information and data stored within the app.
+### Location and sensor access
+- Location access is requested only for features that require it (prayer times, Qibla direction, nearby mosques).
+- Motion and orientation sensors may be used temporarily while these features are open.
+- Location is not continuously tracked in the background.
 
-## Third-party Services
+### Microphone and media access
+- Microphone access is only used for voice-based features initiated by the user.
+- Audio is processed on-device and not stored or uploaded.
+- Camera or photo library access is requested only when creating or saving images.
 
-While using IslamEncyclo, Users may be directed to external content or services. It's recommended to review the privacy policies of these third-party services, as IslamEncyclo does not control or assume responsibility for their content or privacy practices.
+### Local storage and offline content
+- Quran audio, documents, and other media are stored locally for offline use.
+- The app does not retrieve copies of locally stored files.
+- Download success/failure may be logged anonymously to monitor reliability.
 
-## Updates to this Privacy Policy
+### Content hosting and delivery
+- Quranic audio, graphics, and media are hosted on secure servers and fetched on demand.
+- Requests carry no personal identifiers beyond standard connection metadata.
 
-IslamEncyclo may update this Privacy Policy periodically to reflect changes in data collection or usage practices. Users are encouraged to review this policy regularly to stay informed about how IslamEncyclo protects and utilizes collected information.
+### Over-the-air updates
+- Controlled update mechanisms deliver fixes and features without full app store updates.
+- Minimal anonymized device metadata may be collected to ensure compatibility.
 
-## Acceptance of Terms
+---
 
-By using IslamEncyclo on Android or iOS platforms, Users signify their acceptance of this Privacy Policy. If there is disagreement, Users are advised to refrain from using IslamEncyclo. Continued use of IslamEncyclo after changes to this policy implies acceptance of those changes.
+## Cortos (Short-Form Video) Module
+
+Islam Encyclo includes a short-form video feature called **"Cortos"**.
+
+- Video playback uses the YouTube IFrame Player API.
+- All videos are published and managed by Islam Encyclo’s official YouTube channel.
+- The app does not display third-party, unauthorized, or user-uploaded content.
+- Islam Encyclo does not download, store, cache, re-host, modify, or redistribute video/audio from YouTube.
+- Videos are streamed directly; playback controls, ads, monetization, and behavior are governed by YouTube/Google policies.
+- The Cortos module does not collect personal information, YouTube account data, watch history, likes, comments, or subscriptions.
+- Users are not required to sign in to YouTube or Google.
+- Any data during video playback (device info, IP address, usage metrics) is collected by YouTube per Google’s Privacy Policy.
+- No additional ads, tracking, or analytics are injected by Islam Encyclo.
+- YouTube restrictions (age, content, regional) remain fully intact.
+- Content complies with YouTube Community Guidelines, child safety standards, and platform policies.
+
+---
+
+## Information We Do Not Collect
+
+- Names, emails, phone numbers, account credentials, payment details, biometric data, or social media information.
+- Contacts, messages, call logs, or calendar data.
+- Background access to location, microphone, or camera outside of active features.
+- Continuous location history or health/fitness data outside app-recorded activity (e.g., Tasbeeh counts, prayer streaks).
+
+---
+
+## How We Use Information
+
+- To provide core app functionality: Quran listening, offline access, prayer calculations, reminders, Tasbeeh counters, quizzes, and personalization.
+- Local storage remembers user preferences without server accounts.
+- Anonymized analytics maintain performance and reliability.
+- Advertising data supports ad display while respecting system privacy controls.
+
+---
+
+## Third-Party Services
+
+- Trusted providers are used for infrastructure, analytics, crash reporting, ads, notifications, content delivery, and updates.
+- Providers process limited data on our behalf under their privacy policies.
+- Islam Encyclo does not sell user data or combine third-party data with personal identities.
+
+---
+
+## User Rights and Choices
+
+- App permissions can be managed through device settings.
+- Notifications can be disabled via system settings.
+- Advertising personalization can be limited/reset in Android or iOS privacy controls.
+- Removing the app deletes locally stored data unless managed by OS backups.
+- Users may request removal of limited diagnostic/analytics data where feasible.
+
+---
+
+## Policy Updates and Acceptance
+
+- This Privacy Policy may be updated to reflect changes in features, services, or practices.
+- Continued use of Islam Encyclo after updates indicates acceptance.
+- Applies to both Android and iOS versions.
+
+**Last Updated:** 04 January 2026
+
+---
 
 ## Contact Information
 
-For inquiries about this Privacy Policy or IslamEncyclo's practices, please contact us at [kamranyofficial@gmail.com](mailto:kamranyofficial@gmail.com).
+For questions, privacy requests, or feedback, contact us at:
 
-**Last Updated**: `23 May 2025`
+**Email:** [kamranyofficial@gmail.com](mailto:kamranyofficial@gmail.com)
