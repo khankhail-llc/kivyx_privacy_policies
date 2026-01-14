@@ -3,7 +3,7 @@ This Privacy Policy describes how Monster Rush (“we”, “our”, or “the A
 
 1. Personal Identification Information
 Monster Rush does not collect, store, or share any personal identification information from its users.
-You can enjoy and play Tactigons completely anonymously — no login, sign-up, or personal data is ever required.
+You can enjoy and play Monster Rush completely anonymously — no login, sign-up, or personal data is ever required.
 
 2. Advertisements
 Monster Rush may display ads provided by Unity Ads.
@@ -17,7 +17,7 @@ Users can also adjust ad tracking preferences through their device settings:
 Android: Settings → Google → Ads → Opt out of Ads Personalization
 iOS: Settings → Privacy → Tracking → Allow Apps to Request to Track (disable)
 3. Children’s Privacy
-Sea Rush does not collect any data from children or any users whatsoever.
+Monster Rush does not collect any data from children or any users whatsoever.
 The game is designed for all audiences and does not request or store any personal or behavioral data.
 
 4. Changes to this Privacy Policy
